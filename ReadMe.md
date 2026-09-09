@@ -7,9 +7,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FYvess/FYvess/output/dist/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FYvess/FYvess/output/dist/snake-light.svg" />
-  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/FYvess/FYvess/output/dist/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FYvess/FYvess/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FYvess/FYvess/output/snake-light.svg" />
+  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/FYvess/FYvess/output/snake.svg" />
 </picture>
 
 <br/>
@@ -29,14 +29,7 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.shion.dev/api?username=FYvess&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FYvess&layout=compact&theme=transparent&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=FYvess&theme=transparent&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=FYvess&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FYvess&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
 
 </div>
 

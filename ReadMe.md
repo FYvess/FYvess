@@ -14,6 +14,9 @@
 
 <br/>
 
+<sub>TECH STACK</sub>
+<br/>
+
 ![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -25,7 +28,9 @@
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/FYvess/FYvess/main/assets/divider.svg" width="100%" height="3" />
+</div>
 
 ### About me
 
@@ -34,11 +39,17 @@
 - 💻 Backing it all with solid **software engineering** fundamentals
 - 📬 Reach me at [franco.desantos@outlook.com](mailto:franco.desantos@outlook.com)
 
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/FYvess/FYvess/main/assets/divider.svg" width="100%" height="3" />
+</div>
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FYvess&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FYvess/FYvess/main/assets/langs-bar-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FYvess/FYvess/main/assets/langs-bar-light.svg" />
+  <img alt="most used languages" width="480" src="https://raw.githubusercontent.com/FYvess/FYvess/main/assets/langs-bar-dark.svg" />
+</picture>
 
 </div>
 

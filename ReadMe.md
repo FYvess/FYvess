@@ -1,6 +1,10 @@
 <div align="center">
 
-# Hi, I'm Yavez 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Yavez%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=Building+things+that+ship;Clean+code%2C+minimal+noise;Always+learning+something+new" />
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FYvess/FYvess/output/dist/snake.svg" />
@@ -30,10 +34,16 @@
 
 <img src="https://streak-stats.demolab.com/?user=FYvess&theme=transparent&hide_border=true" />
 
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=FYvess&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
 </div>
 
 <div align="center">
 
 [![](https://komarev.com/ghpvc/?username=FYvess&style=flat-square&color=blueviolet)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>

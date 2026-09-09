@@ -1,7 +1,7 @@
-<svg width="480" height="124" viewBox="0 0 480 124" xmlns="http://www.w3.org/2000/svg">
+<svg width="480" height="130" viewBox="0 0 480 130" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <clipPath id="barClip">
-      <rect x="10" y="28" width="460" height="14" rx="7" ry="7" />
+      <rect x="10" y="30" width="460" height="18" rx="9" ry="9" />
     </clipPath>
     <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0" />
@@ -10,28 +10,31 @@
     </linearGradient>
   </defs>
 
-  <text x="10" y="16" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#24292f">Most Used Languages</text>
+  <text x="10" y="18" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#24292f">
+    Most Used Languages
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite" />
+  </text>
 
   <g clip-path="url(#barClip)">
-    <rect x="10"  y="28" width="196" height="14" fill="#f1e05a" />
-    <rect x="206" y="28" width="181" height="14" fill="#e34c26" />
-    <rect x="387" y="28" width="40"  height="14" fill="#4F5D95" />
-    <rect x="427" y="28" width="26"  height="14" fill="#3572A5" />
-    <rect x="453" y="28" width="12"  height="14" fill="#563d7c" />
-    <rect x="465" y="28" width="5"   height="14" fill="#b07219" />
+    <rect x="10"  y="30" width="196" height="18" fill="#f1e05a" />
+    <rect x="206" y="30" width="181" height="18" fill="#e34c26" />
+    <rect x="387" y="30" width="40"  height="18" fill="#4F5D95" />
+    <rect x="427" y="30" width="26"  height="18" fill="#3572A5" />
+    <rect x="453" y="30" width="12"  height="18" fill="#563d7c" />
+    <rect x="465" y="30" width="5"   height="18" fill="#b07219" />
 
-    <rect y="28" width="90" height="14" fill="url(#sheen)">
+    <rect y="30" width="90" height="18" fill="url(#sheen)">
       <animate attributeName="x" from="-90" to="560" dur="3.2s" repeatCount="indefinite" calcMode="linear" />
     </rect>
   </g>
 
-  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#24292f">
-    <circle cx="14" cy="64" r="5" fill="#f1e05a" /><text x="26" y="68">JavaScript 42.60%</text>
-    <circle cx="14" cy="86" r="5" fill="#4F5D95" /><text x="26" y="90">PHP 8.80%</text>
-    <circle cx="14" cy="108" r="5" fill="#563d7c" /><text x="26" y="112">CSS 2.72%</text>
+  <g font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#24292f">
+    <circle cx="14" cy="70" r="5" fill="#f1e05a" /><text x="26" y="74">JavaScript 42.60%</text>
+    <circle cx="14" cy="92" r="5" fill="#4F5D95" /><text x="26" y="96">PHP 8.80%</text>
+    <circle cx="14" cy="114" r="5" fill="#563d7c" /><text x="26" y="118">CSS 2.72%</text>
 
-    <circle cx="254" cy="64" r="5" fill="#e34c26" /><text x="266" y="68">HTML 39.43%</text>
-    <circle cx="254" cy="86" r="5" fill="#3572A5" /><text x="266" y="90">Python 5.60%</text>
-    <circle cx="254" cy="108" r="5" fill="#b07219" /><text x="266" y="112">Java 0.85%</text>
+    <circle cx="254" cy="70" r="5" fill="#e34c26" /><text x="266" y="74">HTML 39.43%</text>
+    <circle cx="254" cy="92" r="5" fill="#3572A5" /><text x="266" y="96">Python 5.60%</text>
+    <circle cx="254" cy="114" r="5" fill="#b07219" /><text x="266" y="118">Java 0.85%</text>
   </g>
 </svg>
